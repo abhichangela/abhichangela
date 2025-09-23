@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me  
-💡 **Senior Software Developer** with strong expertise in **HTML, CSS, JavaScript, React, and Node.js**.  
+💡 **Senior Software Developer** with strong expertise in **HTML, CSS, JavaScript, Angular, React, and Node.js**.  
 🚀 Passionate about building **scalable web applications** & **high-performance UIs**.  
 🧩 Love solving complex problems, mentoring developers, and exploring new tech.
 
